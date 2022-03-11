@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="clipPath7591">
+   <path d="m215.45 8.1077a200 300 90 0 0-203.29 248.26 200 300 90 0 0 372.39 135.52 200 300 90 0 0 203.29-248.26 200 300 90 0 0-372.39-135.52z" fill="#f00" fill-rule="evenodd" stroke-width="3.2162"/>
+  </clipPath>
+ </defs>
+ <g transform="scale(.66667 1)" clip-path="url(#clipPath7591)">
+  <path d="m0 0h600v200h-600z" fill="#0057b7"/>
+  <path d="m0 200h600v200h-600z" fill="#ffd700"/>
+ </g>
+ <path id="path137" d="m161.63 13.915a190 190 0 0 0-147.72 224.45 190 190 0 0 0 224.45 147.72 190 190 0 0 0 147.72-224.45 190 190 0 0 0-224.45-147.72z" fill="none" stroke-width="2.4948"/>
+ <text fill="#000000" font-family="Arial" font-size="54.667px" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><textPath font-family="Arial" font-size="54.667px" font-weight="bold" xlink:href="#path137"><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">RUSSIAN WARSHIP, GO FUCK YOURSELF! </tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/></textPath></text>
+</svg>

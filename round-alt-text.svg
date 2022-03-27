@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="-20 -20 440 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="text">
+     <text fill="#000000" font-family="Arial" font-size="54.667px" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><textPath font-family="Arial" font-size="54.667px" font-weight="bold" xlink:href="#path137"><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">RUSSIAN WARSHIP, GO FUCK YOURSELF! </tspan><tspan style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/></textPath></text>
+   </clipPath>
+ </defs>
+ <path d="M-20 200 A200 200 0 0 1 420 200z" fill="#0057b7"/>
+ <path d="M420 200 A200 200 0 0 1 -20 200z" fill="#ffd700"/>
+ <path id="path137" d="m161.63 13.915a190 190 0 0 0-147.72 224.45 190 190 0 0 0 224.45 147.72 190 190 0 0 0 147.72-224.45 190 190 0 0 0-224.45-147.72z" fill="none" stroke-width="2.4948"/>
+ <g clip-path="url(#text)">
+  <path d="m0 0h400v200h-400z" fill="#ffd700"/>
+  <path d="m0 200h400v200h-400z" fill="#0057b7"/>
+ </g>
+</svg>
